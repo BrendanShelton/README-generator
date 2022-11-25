@@ -17,6 +17,10 @@ https://brendanshelton.github.io/README-generator/
 
 ![screenshot of application](./assets/screenshot.PNG)
 
+## Technologies used
+
+Javascript, Node.js, Inquirer
+
 ## Credits
 
 N/A
