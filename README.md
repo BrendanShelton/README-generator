@@ -7,7 +7,7 @@ This application generates a README.md file for a project after the user enters 
 
 ## Installation
 
-this application requires Node.js
+This application requires Node.js. Open the root folder in a terminal and enter "npm i"
 
 ## Usage
 
