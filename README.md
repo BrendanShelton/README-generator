@@ -22,8 +22,7 @@ https://brendanshelton.github.io/README-generator/
 Javascript, Node.js, Inquirer
 
 ## Credits
-
-N/A
+This application is based on starter code provided for an assignment for the University of Richmond coding bootcamp.
 
 ## License
 
